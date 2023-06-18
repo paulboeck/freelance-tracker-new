@@ -1,0 +1,5 @@
+[
+  {id: 1, name: 'Test Client'},
+  {id: 2, name: 'Another Client'},
+  {id: 3, name: 'Third Client'}
+]
