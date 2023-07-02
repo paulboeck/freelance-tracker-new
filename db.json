@@ -1,7 +1,7 @@
 {
   "clients": [
   {"id": 1, "name": "Test Client"},
-  {"id": 2, "name": "Another Client"},
-  {"id": 3, "name": "Third Client"}
+  {"id": 2, "name": "Another Client", "email": "anotheremail@gmail.com"},
+  {"id": 3, "name": "Third Client", "address": "123 main"}
 ]
 }
